@@ -4,15 +4,84 @@ title: Assignments
 uid: 65ba492e-e5d1-1e4f-ced6-108c36346a90
 ---
 
-| ACTIVITIES | SESSIONS DUE |
-| --- | --- |
-| Current Event as STS (paper) | 3 |
-| MIT 150th Exhibit Examples (paper and presentation) | 6 |
-| Key Words and Concepts (quiz) | 7 |
-| Op-ed on Swartz Case (paper) | 12 |
-| Further background / comment on Asilomar / Cambridge City Council (presentation) | 14 |
-| Photography project (paper and presentation) | 20 |
-| Final reports (paper and presentation | 25, and 26 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+SESSIONS DUE
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Current Event as STS (paper)
+{{< tdclose >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+MIT 150th Exhibit Examples (paper and presentation)
+{{< tdclose >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Key Words and Concepts (quiz)
+{{< tdclose >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Op-ed on Swartz Case (paper)
+{{< tdclose >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Further background / comment on Asilomar / Cambridge City Council (presentation)
+{{< tdclose >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Photography project (paper and presentation)
+{{< tdclose >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final reports (paper and presentation
+{{< tdclose >}}
+{{< tdopen >}}
+25, and 26
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Papers
 ------
