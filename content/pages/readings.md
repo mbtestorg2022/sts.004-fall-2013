@@ -134,7 +134,7 @@ The Swartz Case and the Abelson Report
 {{< tdopen >}}
 
 
-Abelson, Hal, Peter Diamond, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[MIT and the Prosecution of Aaron Swartz (PDF - 5.0MB)](http://swartz-report.mit.edu/docs/report-to-the-president.pdf). July 26, 2013.
+Abelson, Hal, Peter Diamond, et al. [MIT and the Prosecution of Aaron Swartz (PDF - 5.0MB)](http://swartz-report.mit.edu/docs/report-to-the-president.pdf). July 26, 2013.
 
 Please read the entire body of the report, Parts I through V. Also read Appendices 3, 6, and 8–11. You can skip the other appendices.
 
