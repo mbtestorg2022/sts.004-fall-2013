@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: d9630192-af39-8381-5030-4047131bb112
 resourcetype: Image
 title: STS-004_stat-students.png
 uid: 839dbe7d-bc38-45a7-693a-57760f5558f0

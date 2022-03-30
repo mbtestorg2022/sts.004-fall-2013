@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: d9630192-af39-8381-5030-4047131bb112
 resourcetype: Image
 title: STS-004_classroom-1
 uid: 7254ad1f-356c-d43b-07fa-15b5a98502f1
